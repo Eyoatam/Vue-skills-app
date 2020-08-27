@@ -9,6 +9,7 @@
         />
       </form>
       <ul>
+      <!-- Add The animations to the list items -->
         <transition-group
           name="list"
           enter-active-class="animated bounceInUp"
